@@ -33,3 +33,5 @@ Musiverse is a full-stack web music streaming platform where users can browse, s
    ```bash
    git clone https://github.com/yourusername/musiverse.git
    cd musiverse/Slotify
+
+   
