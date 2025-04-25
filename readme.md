@@ -26,12 +26,5 @@ Musiverse is a full-stack web music streaming platform where users can browse, s
 - Web server (Apache recommended)
 - Composer (optional)
 
-### Installation
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/musiverse.git
-   cd musiverse/Slotify
 
    
